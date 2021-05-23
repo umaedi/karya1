@@ -1,0 +1,11 @@
+@media (max-width: 670px) {
+    h2 {
+        text-align: center;
+    }
+    .btn {
+        width: 100%;
+    }
+    .col-6 {
+        width: 100%;
+    }
+}
